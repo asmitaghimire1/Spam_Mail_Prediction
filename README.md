@@ -19,5 +19,6 @@ This project is a spam mail classifier that:
 The Logistic Regression model achieved an accuracy score of approximately 0.9676 on training data and 0.9668 on testing data.
 
 ## Example
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7bcf0f82-5b3b-47d1-a449-8b400bef5ecb" />
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7bcf0f82-5b3b-47d1-a449-8b400bef5ecb" />
+
+<img width="512" height="250" alt="ham" src="https://github.com/user-attachments/assets/9fda25a3-cc3b-495f-a9b9-e85e586eec2d" />
+<img width="502" height="266" alt="spam" src="https://github.com/user-attachments/assets/6b0774d9-3973-42f9-a7ee-143f7dea43ad" />
