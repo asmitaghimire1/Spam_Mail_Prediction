@@ -1,5 +1,5 @@
 # Spam Mail Prediction
-A machine learning-based web app to classify emails/messages as Spam or Ham (not spam) using Logistic Regression and TF-IDF vectorization, deployed with Streamlit.
+A machine learning-based web app to classify emails/messages as Spam or Ham (not spam) using Logistic Regression and TF-IDF vectorization, deployed with Streamlit.  
 
 ## Project Overview
 This project is a spam mail classifier that:
